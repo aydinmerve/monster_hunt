@@ -62,7 +62,7 @@ button {
 }
 
 #attack {
-    background-color: #ff7367;
+    background-color: red;
 }
 
 #attack:hover {
@@ -70,7 +70,7 @@ button {
 }
 
 #special-attack {
-    background-color: #ffaf4f;
+    background-color: orange;
 }
 
 #special-attack:hover {
@@ -78,7 +78,7 @@ button {
 }
 
 #heal {
-    background-color: #aaffb0;
+    background-color: green;
 }
 
 #heal:hover {
